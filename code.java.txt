@@ -1,0 +1,16 @@
+public class JinkinsWithJava {
+    public static void main(String[] args) {
+
+
+
+
+        int Charperline = 0;
+
+        for (int i = 33 ; i< 256; i++ ,Charperline ++){
+
+            System.out.println((char)+((Charperline%10==0)?"\n":"\t"));
+            System.out.print("");
+        }
+
+
+    }

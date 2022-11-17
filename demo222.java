@@ -1,4 +1,7 @@
 public class DEMO{
 public static void main(String[] args){
-for(int i = 0; i<10;i++){System.out.println("Welcome to Java")}}
+System.out.println("Welcome to java");
+System.out.println("Welcome to Devops");
+System.out.println("Git is fun");
+}
 }
